@@ -1,6 +1,7 @@
 # Mergington High School Code of Conduct
 
 ## Our Pledge
+.
 
 In the interest of fostering an open and welcoming environment for
 our school community, we as contributors and maintainers pledge to
